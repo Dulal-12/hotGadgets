@@ -1,0 +1,9 @@
+.carousel-bg{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size:80px;
+}
+.carousel-bg1 p{
+    color:lightgray;
+    text-align: justify;
+}
