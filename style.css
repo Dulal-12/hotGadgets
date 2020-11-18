@@ -4,6 +4,31 @@
     background-size:80px;
 }
 .carousel-bg1 p{
-    color:lightgray;
+    color:grey;
     text-align: justify;
+}
+
+.carousel-bg1{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-size:100px;
+    background-position: left;
+}
+.card{
+    border:none;
+    box-shadow: 5px 10px 20px lightgrey;
+    margin:5px;
+    text-align:center;
+    padding: 15px;
+}
+.catagories h3{
+    
+   
+    text-align: center;
+   
+}
+.design-2{
+    border:none;
+    text-align:center;
+  
 }
